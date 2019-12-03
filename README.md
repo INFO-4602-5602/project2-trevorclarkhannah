@@ -1,4 +1,8 @@
 # Project 2: Analyzing Art Data
+
+
+### WEBSITE LINK: https://sites.google.com/a/colorado.edu/info-4602-project-2-tch/ ###
+
 *Due December 2, 2019 @ 11:59pm through GitHub Classroom*
 
 Projects may be submitted up to 3 days late, with a 10% penalty per day
@@ -25,52 +29,7 @@ I have cleaned up the data from this experiment in WikiDataClean.csv, reducing i
 
 The remaining columns represent terms that annotators could provide about the piece. In each cell of the table, you will find the average annotation for that particular term. For example, if 4 of 10 annotators labeled an image as evoking trust, Trust would contain the value 0.4 for that image.
 
-Your goal in this project is to create visualizations that illustrate interesting features of the dataset. You can do this in one of two ways: 
-
-1. Create at least two interactive visualizations that let users explore the data in interesting ways. 
-2. Create a website that tells a story about this data through at least four different visualizations paired with explanatory text. 
-
-<h2>Option 1: Interactive Visualizations</h2>
-<h3>Minimum Requirements:</h3>
-This option will allow you to build a system that lets users explore the provided art data. If you choose this option, your project must:
-<ul>
-<li> Include a README.md file that outlines:
-  <ul>
-  <li>Information about your visualizations and what they show. Include information about interactions, preprocesses, and design as appropriate. Note what tasks the visualization allows you to accomplish to derive this insight and how your design is tailored to support these tasks. </li>
-  <li>Your design process (e.g., how did you go about designing, building, and refining your system? Why did you choose these representations?)</li>
-  <li>Your team roles for each individual</li>
-  <li>How to run your project</li>
-    <li>Any additional elements of the project you consider "above and beyond" the basic requirements.</li></ul></li>
-<li>Include at least two unique visualizations:
-  <ul>
-  <li>One visualization must include some quantitative data</li>
-  <li>One visualization must include categorical data</li>
-  <li>Each visualization must be interactive</li>
-  <li>Your visualizations should support at least one meaningful comparison between related data attributes</li>
-</ul></li>
-</ul>
-
-<h3>Above and Beyond:</h3> 
-The above requirements are the minimum for a passing grade on this project. Some ideas to improve your project include (but are not limited to):<ul>
-<li>Unusual Representations: Draw on some of the examples from class to represent data in ways beyond a typical scatterplot or bar chart.</li>
-<li>Style: Keep the style consistent across all your views, with an eye towards intelligently applying visual design.</li>
-<li>Interesting Tasks: Derive insight into the data. Highlight these insights in your readme and describe how the visualization enables them. What do these insights tell us about the data? </li>
-<li>Perceptually-Informed Design: Integrate perceptual concepts into your visualization design and discuss how you've integrated those concepts in your readme.</li>
-<li>Integrate Imagery: Use data from the provided URLs to add more context to your visualization. For example, you could link to or scrape text about individual paintings or artists or integrate images of the art into your visualizations.</li>
-<li>Coordinated Views: Have two or more visualizations that interact with one another as you move through the data.</li></ul>
-
-<h3>Platforms:</h3> 
-You can use any development platform you'd like so long as your final project runs in the browser without having to install anything new. Your project readme should include step-by-step instructions on how to run your projects and it should run without me having to modify the code. You are welcome to use different platforms for each visualization.
-
-Some platforms to look at include:
-<ul>
-<li>D3</li>
-<li>WebGL or Three.js</li>
-<li>ProcessingJS</li>
-<li>Google Maps API</li>
-<li>Open Street Map API</li>
-<li>Bokeh</li>
-</ul>
+### WEBSITE LINK: https://sites.google.com/a/colorado.edu/info-4602-project-2-tch/ ###
 
 <h2>Option 2: Storytelling with Data</h2>
 <h3>Minimum Requirements:</h3>
